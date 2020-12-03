@@ -8,18 +8,14 @@
 $(call inherit-product, device/xiaomi/violet/device.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/ancient/config/common_full_phone.mk)
+$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := ancient_violet
+PRODUCT_NAME := aosp_violet
 PRODUCT_DEVICE := violet
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi Note 7 Pro
 PRODUCT_MANUFACTURER := Xiaomi
-
-#Maintainer
-PRODUCT_PROPERTY_OVERRIDES += \
-ro.ancient.maintainer=Karthik Lal
 
 BUILD_FINGERPRINT := "google/redfin/redfin:11/RD1A.201105.003.C1/6886399:user/release-keys"
 
@@ -31,6 +27,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 ro.build.fingerprint=google/redfin/redfin:11/RD1A.201105.003.C1/6886399:user/release-keys
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
-
-# Vanilla
-ANCIENT_NOGAPPS=true
