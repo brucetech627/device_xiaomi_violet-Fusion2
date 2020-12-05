@@ -8,4 +8,5 @@ smartphone from Xiaomi. It was announced in February 2019 and released in March 
 | 1080 (19.5:9), 6.3 inch | Rear Camera 1 | 48MP, 1.6-micron pixels, f/1.79 Dual LED flash | Rear Camera 2 | 5 
 | MP, 1.12-micron pixels, f/2.2 | Front Camera | 13 MP, 1.12-micron pixels, f/2.0 |
 ## Device picture
-![Xiaomi Redmi Note 7 Pro](https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-7-pro/gallery1.jpg)
+![Xiaomi Redmi Note 7 
+!Pro](https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-note-7-pro/gallery1.jpg)
